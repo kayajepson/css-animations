@@ -7,7 +7,7 @@ The animations seen on their feed are primarily done in After Effects so I wante
 This particular animation was inspired by [this gallery hover idea](https://dribbble.com/shots/4228572-Photo-Gallery-Hover-Idea "Green Chameleon animation").
 Utilizes only css for the animations!
 
-## VIEW LIFE VERSION
+## VIEW LIVE VERSION
 
 [Live version here](https://kayajepson.github.io/css-animations/ "mountain animation")
 
